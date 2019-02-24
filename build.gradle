@@ -21,4 +21,6 @@ war {
     archiveName = "myapp.war"
 }
 
+task stage(dependsOn: build){
 
+}
